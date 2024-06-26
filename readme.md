@@ -25,5 +25,5 @@ Settings > (GitHub) Pages
 ### a href 연결
 
 `<a href="/contact.html">To contact</a>`를 사용하면 안되고  
-`<a href="/SuperNinja/contact.html">To contact</a>` 또는
+`<a href="/SuperNinja/contact.html">To contact</a>` 또는  
 `<a href="/${repositoryName}/contact.html">To contact</a>` 이렇게 써줘야 정상적인 연결이 된다.
