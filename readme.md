@@ -20,4 +20,4 @@ Settings > (GitHub) Pages
 일정 시간이 지난후 새로고침 시 링크를 확인할 수 있음
 
 그렇다면 자동으로
-[kyh012412.github.io/superninja](kyh012412.github.io/superninja)가 만들어짐
+[https://kyh012412.github.io/superninja](https://kyh012412.github.io/superninja)가 만들어짐
