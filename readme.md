@@ -21,3 +21,9 @@ Settings > (GitHub) Pages
 
 그렇다면 자동으로
 [https://kyh012412.github.io/superninja](https://kyh012412.github.io/superninja)가 만들어짐
+
+### a href 연결
+
+`<a href="/contact.html">To contact</a>`를 사용하면 안되고  
+`<a href="/SuperNinja/contact.html">To contact</a>` 또는
+`<a href="/${repositoryName}/contact.html">To contact</a>` 이렇게 써줘야 정상적인 연결이 된다.
